@@ -65,6 +65,27 @@ campmamo-demos/
 
 ---
 
+## 🎨 Brand assets
+
+Need graphics for your Camp Mamo project or social media posts? We've got you covered!
+
+### Brand Kit
+Access our complete brand kit with logos, colors, and design guidelines:  
+📁 **[Camp Mamo Brand Kit](https://drive.google.com/drive/folders/1kZuEknsnXz_XvXQUVBQkX4i8DD3WGFeC)**
+
+### Create Your Own Graphics
+Use our Figma templates to create custom graphics for your projects:  
+🎨 **[Camp Mamo Shareables - Figma](https://www.figma.com/design/AodtIu10eBxHEKMIXe7UMI/Camp-Mamo-shareables?node-id=0-1&t=yMnRo3YdvQTYiqdI-1)**
+
+**How to use the Figma templates:**
+1. **Sign in to Figma** with your account
+2. **Copy the graphic** you want to use from our template
+3. **Paste into your own Figma project** and edit it to your liking
+4. **Select your artboard** (e.g., "Landscape X 16:9") and click **"Export"** in the bottom right
+5. **Share your graphic** on Twitter and tag us!
+
+---
+
 ## 🤝 Contributing & adding new demos
 1. Fork this repo and create a new branch.
 2. Add the external demo as a submodule:
